@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaeldu98&label=Profile%20views&color=0e75b6&style=flat" alt="raphaeldu98" /> </p>
 
-- 🌱 I’m currently learning **Distributed Systems, Mobile Development**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 📫 How to reach me **raphael_du@outlook.com**
 
